@@ -28,7 +28,8 @@ Create and use pandas DataFrames to represent raw data
 
 # Answering Questions with Messy Data
 
-## Demonstrate basic statistical test knowledge on dataframes in pandas and
+## Objective
+Demonstrate basic statistical test knowledge on dataframes in pandas and
 Recognize other kinds of structured data such as networks, graphs, natural language
 
 
